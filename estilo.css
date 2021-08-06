@@ -1,0 +1,12 @@
+body{
+    background-image: url(burbujas.gif);
+}
+
+h1{
+    text-align: center;
+    margin-top: 300px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    background-color: rgb(53, 34, 83);
+    color: white;
+}
